@@ -1,6 +1,7 @@
 # Blog Platform with Admin Panel
 
 A full-stack blog application built with React.js and Flask.
+[▶ Watch Demo Video](assets/demo.mp4)
 
 ## Features
 
@@ -262,3 +263,4 @@ The backend uses IoC for loose coupling:
 ## License
 
 MIT License
+
